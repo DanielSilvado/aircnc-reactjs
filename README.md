@@ -4,6 +4,9 @@ Uma réplica do Aircnc para empresas.
 A mesma consome dados da API <a href="https://github.com/DanielSilvado/Aircnc-NojeJs" target="_blank">Aircnc-NodeJs</a> 
 e possui uma base de dados em MongoDB que armazena as informações dos Spots, com a empresa, tecnologias e valores da diária.
 O frontend se comunica diretamento com o <a href="https://github.com/DanielSilvado/Aircnc-ReactNative" target="_blank">Mobile</a> onde os Devs podem se cadastrar e encontrar os Spots correspondentes as tecnologias com que trabalham.
+
+![Aircnc ReactJs Demo](aircnc-gif.gif)
+
 # Tecnologias Utilizadas :
 
 * ReactJs
