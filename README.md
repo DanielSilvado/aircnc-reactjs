@@ -15,7 +15,7 @@ O frontend se comunica diretamento com o <a href="https://github.com/DanielSilva
 * React Hooks
 
 # Instalação
-Para funcionamento da aplicação é necessário utilizar a api <a href="https://github.com/Montezi/Backend_Tindev" target="_blank"> Backend Tindev </a>
+Para funcionamento da aplicação é necessário utilizar a api <a href="https://github.com/DanielSilvado/aircnc-backend" target="_blank"> Backend Tindev </a>
 
 **- Se estiver utilizando Yarn**
 ```
