@@ -1,5 +1,3 @@
-## Aircnc-ReactJs
-
 <p align="center">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/DanielSilvado/ecoleta-frontend">
@@ -19,6 +17,8 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/danielsilvado/ecoleta-frontend?style=social">
   </a>
 </p>
+
+## Aircnc-ReactJs
 
 Aplicação desenvolvida na 9ª Semana Omnistack da <a href="https://rocketseat.com.br" target="_blank"> Rocketseat</a>.
 Uma réplica do Aircnc para empresas.
