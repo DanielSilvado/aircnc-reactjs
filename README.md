@@ -48,7 +48,7 @@ Para funcionamento da aplicação é necessário utilizar a api <a href="https:/
   yarn start 
   
   Executa o aplicativo no modo de desenvolvimento.
-  Abra http: // localhost: 3000 para visualizá-lo no navegador. 
+  Abra http: // localhost: 8000 para visualizá-lo no navegador. 
    
 ```
 
